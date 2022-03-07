@@ -32,7 +32,6 @@ validators
 heroku3
 
 #forsession
-telethon
 cachetools
 regex
 
